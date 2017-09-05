@@ -1,0 +1,17 @@
+{
+  "name": "flash",
+  "version": "1.0.0",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^3.2.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}

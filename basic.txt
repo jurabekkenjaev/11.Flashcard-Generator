@@ -1,0 +1,54 @@
+{	"front":"Who invented Coca-Cola?",
+	"back":"John Pemberton",
+	"type":"bcflash"
+};
+
+{	"front":"How many incisor teeth are there in a full set of adult teeth?",
+	"back":" 8 incisor teeth",
+	"type":"bcflash"
+};
+
+{	"front":"128 ounces are equivalent to one what?",
+	"back":"gallon",
+	"type":"bcflash"
+};
+
+{	"front":"In 1947, which American broke the sound barrier in the X-1?",
+	"back":"Chuck Yeager",
+	"type":"bcflash"
+};
+
+{	"front":"What was the name of the space mission that landed the first humans on the moon?",
+	"back":"Manned lunar landing",
+	"type":"bcflash"
+};
+
+{	"text":"Don't mistake silence for weakness.Smart people don't plan big moves out loud.",
+	"cloze":"silence",
+	"clozeDeleted":" Don't mistake ... for weakness.Smart people don't plan big moves out loud.",
+	"type":"ceflash"
+};
+
+{	"text":"Tashkent is the capital and largest city of Uzbekistan.",
+	"cloze":"Tashkent",
+	"clozeDeleted":" ...  is the capital and largest city of Uzbekistan.",
+	"type":"ceflash"
+};
+
+{	"text":"Tri-State Tornado was the deadliest tornado in U.S. history",
+	"cloze":"Tri-State Tornado",
+	"clozeDeleted":" ...  was the deadliest tornado in U.S. history",
+	"type":"ceflash"
+};
+
+{	"text":"Intelligence is a way of acting. If you act intelligently, you are smart.",
+	"cloze":"Intelligence",
+	"clozeDeleted":" ...  is a way of acting. If you act intelligently, you are smart.",
+	"type":"ceflash"
+};
+
+{	"text":"Do not let your hearts be troubled. Trust in God ,trust also in ME.",
+	"cloze":"God",
+	"clozeDeleted":"Do not let your hearts be troubled. Trust in ... ,trust also in ME.",
+	"type":"ceflash"
+};
